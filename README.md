@@ -28,7 +28,7 @@ Prepare demo
 ![](.images/first_image.PNG)
 
 
-### Save API Key
+### Save API Key and Test without Response
 
 ![](.images/second_image.PNG)
 
