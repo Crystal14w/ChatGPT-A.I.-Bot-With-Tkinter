@@ -25,16 +25,16 @@ pip install pickle
 
 Prepare demo
 
-![](.images/first_image.png)
+![](.images/first_image.PNG)
 
 
 ### Save API Key
 
-![](.images/second_image.png)
+![](.images/second_image.PNG)
 
 ### Demo Results
 
-![](.images/third_image.png)
+![](.images/third_image.PNG)
 
 ## Authors
 
